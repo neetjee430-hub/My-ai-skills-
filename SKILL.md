@@ -1,5 +1,5 @@
 ---
-name: profit_guard
+name: profit_guards
 description: A tool for business owners to quickly check net profit after 18% GST and basic operations.
 allowed_tools: [calculator]
 ---
